@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi, I am a senior software engineer working for an MNC. After completing my Engineering degree in Computer Science i started working as Software Engineer concentrating in desktop based applications; Later i moved to web based applications after self-learning new technologies. I enjoy learning and adapt to new technologies & trends. 
+Hi, I am a senior software engineer working for an MNC. After completing my Engineering degree in Computer Science i started working as Software Engineer concentrating in desktop based applications; Later i moved to web based applications after self-learning new technologies. I enjoy learning and adapt to new technologies & trends. I can work as a part of a team as well as in Individual Contributor role. I obtained the Information System Professional (I.S.P.) designation on May 26, 2018, granted by the Canadian Information Processing Society (CIPS).
 
 ### Portfolio Highlights
 
