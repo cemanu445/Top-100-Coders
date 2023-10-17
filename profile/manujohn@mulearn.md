@@ -51,5 +51,5 @@ Hi, I am a senior software engineer working for an MNC. After completing my Engi
 - https://github.com/cemanu445
 
 
->> check out [manujohn@mulearn.md](./manujohn@mulearn.md)
+check out [manujohn@mulearn.md](manujohn@mulearn.md)
 
